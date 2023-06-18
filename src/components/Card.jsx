@@ -4,7 +4,7 @@ const Card = (props) => {
   console.log(props)
   return (
     <div className="card">
-     <img src= {`../../public/assets/${props.img}`} className="card--image" />
+     <img src= {`/assets/${props.img}`} className="card--image" />
      <div className="card--stats">
       <img src= {Star} className="card--star" />
       <span>{props.rating}</span>
