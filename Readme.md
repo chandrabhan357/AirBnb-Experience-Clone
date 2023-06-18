@@ -1,6 +1,6 @@
 //AirBnb Clone
 
-Now that we have covered the basic syntax and concepts of building a static page in React we are now going to learn about the next phase which is learning how to use data to crete our web pages.
+Now that we have covered the basic syntax and concepts of building a static page in React we are now going to learn about the next phase which is learning how to use data to create our web pages.
 
 //Data-driven React
 what we will learn:

@@ -1,4 +1,3 @@
-import React from 'react'
 import Star from "../../public/assets/star.png"
 
 const Card = (props) => {
